@@ -1,0 +1,22 @@
+{
+  "name": "gpx2wormnav-converter",
+  "version": "0.0.1",
+  "description": "Converts the first track of gpx data to wormnav data",
+  "author": "the-old-dev",
+  "license": "EPL-2.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "gpx-parse": "*"
+  },
+  "devDependencies": {
+    "jest": "25.2.7"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "coveragePathIgnorePatterns": [
+      "/node_modules"
+    ]
+  }
+}
