@@ -1,6 +1,6 @@
 var gpxParse = require("gpx-parse");
-var GpxBoundsFactory = require("../lib/GpxBoundsFactory");
-var GpxBounds = require("../lib/GpxBounds");
+var GpxBoundsFactory = require("../lib/gpx-bounds-factory");
+var GpxBounds = require("../lib/gpx-bounds");
 
 var loadedGpx = null;
 

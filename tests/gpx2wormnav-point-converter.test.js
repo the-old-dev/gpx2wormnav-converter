@@ -1,5 +1,5 @@
 var gpxParse = require("gpx-parse");
-var Gpx2WormnavPointConverter = require("../lib/Gpx2WormnavPointConverter");
+var Gpx2WormnavPointConverter = require("../lib/gpx2wormnav-point-converter");
 
 describe('Gpx2WormnavPointConverter Tests', () => {
 

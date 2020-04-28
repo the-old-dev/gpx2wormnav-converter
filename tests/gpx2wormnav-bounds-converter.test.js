@@ -1,6 +1,6 @@
 var gpxParse = require("gpx-parse");
-var GpxBounds = require("../lib/GpxBounds");
-var Gpx2WormnavBoundsConverter = require("../lib/Gpx2WormnavBoundsConverter");
+var GpxBounds = require("../lib/gpx-bounds");
+var Gpx2WormnavBoundsConverter = require("../lib/gpx2wormnav-bounds-converter");
 
 describe("Gpx2WormnavBoundsConverter Tests", () => {
 

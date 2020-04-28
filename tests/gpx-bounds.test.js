@@ -1,5 +1,5 @@
 var gpxParse = require("gpx-parse");
-var GpxBounds = require("../lib/GpxBounds");
+var GpxBounds = require("../lib/gpx-bounds");
 
 describe("GpxBounds Tests", () => {
 

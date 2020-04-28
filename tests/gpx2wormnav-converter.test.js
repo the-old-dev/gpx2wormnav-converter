@@ -1,5 +1,5 @@
 var gpxParse = require("gpx-parse");
-var Gpx2WormnavConverter = require("../lib/Gpx2WormnavConverter");
+var Gpx2WormnavConverter = require("../lib/gpx2wormnav-converter");
 
 var loadedGpx = null;
 

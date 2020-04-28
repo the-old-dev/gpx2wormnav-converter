@@ -1,6 +1,6 @@
 var gpxParse = require("gpx-parse");
-var Gpx2WormnavTrackConverter = require("../lib/Gpx2WormnavTrackConverter");
-var GpxBoundsFactory = require("../lib/GpxBoundsFactory");
+var Gpx2WormnavTrackConverter = require("../lib/gpx2wormnav-track-converter");
+var GpxBoundsFactory = require("../lib/gpx-bounds-factory");
 
 var loadedGpx = null;
 
